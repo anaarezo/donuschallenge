@@ -1,0 +1,17 @@
+{
+  "name": "donuschallenge",
+  "displayName": "donuschallenge",
+  "expo": {
+    "name": "donuschallenge",
+    "slug": "donuschallenge",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./src/assets/splash-screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
