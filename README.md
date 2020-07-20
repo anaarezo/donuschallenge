@@ -70,7 +70,7 @@ if none works try:
 $ yarn expo start
 ```
 
-## Observações:
+## Comments:
 
 * I didn't have time to write tests for all possible components, I wrote just a few to exemplify.
 
